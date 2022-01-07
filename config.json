@@ -1,0 +1,51 @@
+     {"results" : { "Nivedithas-MacBook-Air.local" : {  
+      "actual_machine_name": "Nivedithas-MacBook-Air.local",
+      "machine_name": "machine1",
+      "operating_system": "Windows",
+      "description": "This is machine 1",
+       
+     "source_files" : [ 
+        {
+          "source_location_id": 1,
+          "location": "/Users/nivedithahebbar/Projects/py_api/files/",
+          "description": "Data files containing PH info"
+        },
+        {
+          "source_location_id": 2,
+          "location": "/Users/nivedithahebbar/Projects/py_api/files",
+          "description": "Data files containing temperature info"
+        }
+         ] ,
+      "Target_files": [
+        {
+          "target_location_id": 1,
+          "bucket": "bucket1"
+        }
+       ] },
+       "win2" : {
+        "actual_machine_name": "win2",
+        "machine_name": "win",
+        "operating_system": "Windows",
+        "description": "this is machine 2",
+         
+       "source_files" : [ 
+          {
+            "source_location_id": 1,
+            "location": "/Users/nivedithahebbar/Projects/py_api/files",
+            "description": "Data files containing PH info"
+          },
+          {
+            "source_location_id": 2,
+            "location": "/Users/nivedithahebbar/Projects/py_api/files",
+            "description": "Data files containing temperature info"
+          }
+           ] ,
+        "Target_files": [
+          {
+            "target_location_id": 1,
+            "bucket": "bucket2"
+          }
+         ] }
+    
+    }
+  }

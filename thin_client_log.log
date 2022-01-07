@@ -1,0 +1,64 @@
+2022-01-06 16:06:28,382:DEBUG:_new_conn:Starting new HTTP connection (1): 127.0.0.1:5000
+2022-01-06 16:06:28,386:DEBUG:_make_request:http://127.0.0.1:5000 "GET /config/Nivedithas-MacBook-Air.local HTTP/1.1" 200 683
+2022-01-06 16:06:28,446:DEBUG:_new_conn:Starting new HTTP connection (1): 127.0.0.1:5000
+2022-01-06 16:06:28,447:DEBUG:_new_conn:Starting new HTTP connection (1): 127.0.0.1:5000
+2022-01-06 16:06:28,449:DEBUG:_new_conn:Starting new HTTP connection (1): 127.0.0.1:5000
+2022-01-06 16:06:29,333:DEBUG:_make_request:http://127.0.0.1:5000 "POST /compare/Nivedithas-MacBook-Air.local HTTP/1.1" 200 27
+2022-01-06 16:06:29,336:DEBUG:_new_conn:Starting new HTTP connection (1): 127.0.0.1:5000
+2022-01-06 16:06:29,389:DEBUG:_make_request:http://127.0.0.1:5000 "POST /compare/Nivedithas-MacBook-Air.local HTTP/1.1" 200 27
+2022-01-06 16:06:29,392:DEBUG:_new_conn:Starting new HTTP connection (1): 127.0.0.1:5000
+2022-01-06 16:06:29,393:DEBUG:_make_request:http://127.0.0.1:5000 "POST /compare/Nivedithas-MacBook-Air.local HTTP/1.1" 200 27
+2022-01-06 16:06:29,396:DEBUG:_new_conn:Starting new HTTP connection (1): 127.0.0.1:5000
+2022-01-06 16:06:29,606:DEBUG:_make_request:http://127.0.0.1:5000 "POST /upload/Nivedithas-MacBook-Air.local HTTP/1.1" 500 None
+2022-01-06 16:06:29,607:ERROR:file_compare_and_upload:HTTP ERROR: 500 Server Error: INTERNAL SERVER ERROR for url: http://127.0.0.1:5000/upload/Nivedithas-MacBook-Air.local
+2022-01-06 16:06:29,714:DEBUG:_make_request:http://127.0.0.1:5000 "POST /upload/Nivedithas-MacBook-Air.local HTTP/1.1" 500 None
+2022-01-06 16:06:29,715:ERROR:file_compare_and_upload:HTTP ERROR: 500 Server Error: INTERNAL SERVER ERROR for url: http://127.0.0.1:5000/upload/Nivedithas-MacBook-Air.local
+2022-01-06 16:06:29,722:DEBUG:_make_request:http://127.0.0.1:5000 "POST /upload/Nivedithas-MacBook-Air.local HTTP/1.1" 500 None
+2022-01-06 16:06:29,723:ERROR:file_compare_and_upload:HTTP ERROR: 500 Server Error: INTERNAL SERVER ERROR for url: http://127.0.0.1:5000/upload/Nivedithas-MacBook-Air.local
+2022-01-06 16:06:29,772:DEBUG:_new_conn:Starting new HTTP connection (1): 127.0.0.1:5000
+2022-01-06 16:06:29,773:DEBUG:_new_conn:Starting new HTTP connection (1): 127.0.0.1:5000
+2022-01-06 16:06:29,773:DEBUG:_new_conn:Starting new HTTP connection (1): 127.0.0.1:5000
+2022-01-06 16:06:30,864:DEBUG:_make_request:http://127.0.0.1:5000 "POST /compare/Nivedithas-MacBook-Air.local HTTP/1.1" 200 27
+2022-01-06 16:06:30,867:DEBUG:_new_conn:Starting new HTTP connection (1): 127.0.0.1:5000
+2022-01-06 16:06:31,085:DEBUG:_make_request:http://127.0.0.1:5000 "POST /compare/Nivedithas-MacBook-Air.local HTTP/1.1" 200 27
+2022-01-06 16:06:31,088:DEBUG:_new_conn:Starting new HTTP connection (1): 127.0.0.1:5000
+2022-01-06 16:06:31,093:DEBUG:_make_request:http://127.0.0.1:5000 "POST /compare/Nivedithas-MacBook-Air.local HTTP/1.1" 200 27
+2022-01-06 16:06:31,096:DEBUG:_new_conn:Starting new HTTP connection (1): 127.0.0.1:5000
+2022-01-06 16:06:31,449:DEBUG:_make_request:http://127.0.0.1:5000 "POST /upload/Nivedithas-MacBook-Air.local HTTP/1.1" 500 None
+2022-01-06 16:06:31,449:ERROR:file_compare_and_upload:HTTP ERROR: 500 Server Error: INTERNAL SERVER ERROR for url: http://127.0.0.1:5000/upload/Nivedithas-MacBook-Air.local
+2022-01-06 16:06:31,450:DEBUG:_make_request:http://127.0.0.1:5000 "POST /upload/Nivedithas-MacBook-Air.local HTTP/1.1" 500 None
+2022-01-06 16:06:31,451:ERROR:file_compare_and_upload:HTTP ERROR: 500 Server Error: INTERNAL SERVER ERROR for url: http://127.0.0.1:5000/upload/Nivedithas-MacBook-Air.local
+2022-01-06 16:06:31,463:DEBUG:_make_request:http://127.0.0.1:5000 "POST /upload/Nivedithas-MacBook-Air.local HTTP/1.1" 500 None
+2022-01-06 16:06:31,464:ERROR:file_compare_and_upload:HTTP ERROR: 500 Server Error: INTERNAL SERVER ERROR for url: http://127.0.0.1:5000/upload/Nivedithas-MacBook-Air.local
+2022-01-06 16:10:48,255:DEBUG:_new_conn:Starting new HTTP connection (1): 127.0.0.1:5000
+2022-01-06 16:10:48,258:DEBUG:_make_request:http://127.0.0.1:5000 "GET /config/Nivedithas-MacBook-Air.local HTTP/1.1" 200 683
+2022-01-06 16:10:48,318:DEBUG:_new_conn:Starting new HTTP connection (1): 127.0.0.1:5000
+2022-01-06 16:10:48,320:DEBUG:_new_conn:Starting new HTTP connection (1): 127.0.0.1:5000
+2022-01-06 16:10:48,320:DEBUG:_new_conn:Starting new HTTP connection (1): 127.0.0.1:5000
+2022-01-06 16:10:49,492:DEBUG:_make_request:http://127.0.0.1:5000 "POST /compare/Nivedithas-MacBook-Air.local HTTP/1.1" 200 27
+2022-01-06 16:10:49,494:DEBUG:_make_request:http://127.0.0.1:5000 "POST /compare/Nivedithas-MacBook-Air.local HTTP/1.1" 200 27
+2022-01-06 16:10:49,496:DEBUG:_new_conn:Starting new HTTP connection (1): 127.0.0.1:5000
+2022-01-06 16:10:49,499:DEBUG:_new_conn:Starting new HTTP connection (1): 127.0.0.1:5000
+2022-01-06 16:10:49,543:DEBUG:_make_request:http://127.0.0.1:5000 "POST /compare/Nivedithas-MacBook-Air.local HTTP/1.1" 200 27
+2022-01-06 16:10:49,546:DEBUG:_new_conn:Starting new HTTP connection (1): 127.0.0.1:5000
+2022-01-06 16:10:49,588:DEBUG:_make_request:http://127.0.0.1:5000 "POST /upload/Nivedithas-MacBook-Air.local HTTP/1.1" 201 16
+2022-01-06 16:10:49,589:INFO:file_compare_and_upload:/Users/nivedithahebbar/path1/folder1/os.py Uploaded
+2022-01-06 16:10:49,686:DEBUG:_make_request:http://127.0.0.1:5000 "POST /upload/Nivedithas-MacBook-Air.local HTTP/1.1" 201 16
+2022-01-06 16:10:49,687:INFO:file_compare_and_upload:/Users/nivedithahebbar/path1/data.json Uploaded
+2022-01-06 16:10:49,711:DEBUG:_make_request:http://127.0.0.1:5000 "POST /upload/Nivedithas-MacBook-Air.local HTTP/1.1" 201 16
+2022-01-06 16:10:49,712:INFO:file_compare_and_upload:/Users/nivedithahebbar/path1/.DS_Store Uploaded
+2022-01-06 16:10:49,764:DEBUG:_new_conn:Starting new HTTP connection (1): 127.0.0.1:5000
+2022-01-06 16:10:49,765:DEBUG:_new_conn:Starting new HTTP connection (1): 127.0.0.1:5000
+2022-01-06 16:10:49,766:DEBUG:_new_conn:Starting new HTTP connection (1): 127.0.0.1:5000
+2022-01-06 16:10:49,807:DEBUG:_make_request:http://127.0.0.1:5000 "POST /compare/Nivedithas-MacBook-Air.local HTTP/1.1" 200 27
+2022-01-06 16:10:49,809:DEBUG:_make_request:http://127.0.0.1:5000 "POST /compare/Nivedithas-MacBook-Air.local HTTP/1.1" 200 27
+2022-01-06 16:10:49,812:DEBUG:_make_request:http://127.0.0.1:5000 "POST /compare/Nivedithas-MacBook-Air.local HTTP/1.1" 200 27
+2022-01-06 16:10:49,814:DEBUG:_new_conn:Starting new HTTP connection (1): 127.0.0.1:5000
+2022-01-06 16:10:49,816:DEBUG:_new_conn:Starting new HTTP connection (1): 127.0.0.1:5000
+2022-01-06 16:10:49,819:DEBUG:_new_conn:Starting new HTTP connection (1): 127.0.0.1:5000
+2022-01-06 16:10:49,903:DEBUG:_make_request:http://127.0.0.1:5000 "POST /upload/Nivedithas-MacBook-Air.local HTTP/1.1" 201 16
+2022-01-06 16:10:49,904:INFO:file_compare_and_upload:/Users/nivedithahebbar/path2/folder1/os.py Uploaded
+2022-01-06 16:10:49,918:DEBUG:_make_request:http://127.0.0.1:5000 "POST /upload/Nivedithas-MacBook-Air.local HTTP/1.1" 201 16
+2022-01-06 16:10:49,919:INFO:file_compare_and_upload:/Users/nivedithahebbar/path2/.DS_Store Uploaded
+2022-01-06 16:10:49,931:DEBUG:_make_request:http://127.0.0.1:5000 "POST /upload/Nivedithas-MacBook-Air.local HTTP/1.1" 201 16
+2022-01-06 16:10:49,932:INFO:file_compare_and_upload:/Users/nivedithahebbar/path2/hello.json Uploaded
