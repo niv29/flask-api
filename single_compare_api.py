@@ -8,8 +8,8 @@ import os
 import boto3
 
 s3 = boto3.client("s3",
-                aws_access_key_id='AKIAQKUH3YXCCK6WOL5K',
-                aws_secret_access_key="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"
+                aws_access_key_id='access_id',
+                aws_secret_access_key="access_key"
                  )
 
 
